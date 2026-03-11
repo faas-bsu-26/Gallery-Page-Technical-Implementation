@@ -1,69 +1,20 @@
 {
-    "overview": "The Hardy Boys original series by Franklin W. Dixon",
-    "books": [
+    "overview": "Toyota camry is a mid-size car that has been in production since 1982. It is known for its reliability, fuel efficiency, and comfortable ride. The Camry has undergone several redesigns over the years, with the latest model featuring a sleek and modern design, advanced safety features, and a range of engine options.",
+    "photos": [
         {
-            "title": "The Tower Treasure",
-            "author": "Franklin W. Dixon",
-            "year": 1927,
-            "series": "The Hardy Boys",
-            "order": 1,
-            "description": "Frank and Joe investigate a daring robbery at the Applegate mansion and must find hidden loot before the wrong person is blamed."
+            "src": "2000-2001camry.avif",
+            "alt": "2000-2001 Toyota Camry",
+            "years": "2000–2001"
         },
         {
-            "title": "The House on the Cliff",
-            "author": "Franklin W. Dixon",
-            "year": 1927,
-            "series": "The Hardy Boys",
-            "order": 2,
-            "description": "The brothers uncover a dangerous smuggling ring operating out of a mysterious house perched on a treacherous cliff."
+            "src": "2002-2004Camry.avif",
+            "alt": "2002-2004 Toyota Camry",
+            "years": "2002–2004"
         },
         {
-            "title": "The Secret of the Old Mill",
-            "author": "Franklin W. Dixon",
-            "year": 1927,
-            "series": "The Hardy Boys",
-            "order": 3,
-            "description": "Frank and Joe discover a counterfeiting operation cleverly concealed inside an abandoned mill on the edge of town."
-        },
-        {
-            "title": "The Missing Chums",
-            "author": "Franklin W. Dixon",
-            "year": 1928,
-            "series": "The Hardy Boys",
-            "order": 4,
-            "description": "When two of their close friends vanish without a trace, the Hardy boys race against time to track them down."
-        },
-        {
-            "title": "Hunting for Hidden Gold",
-            "author": "Franklin W. Dixon",
-            "year": 1928,
-            "series": "The Hardy Boys",
-            "order": 5,
-            "description": "The brothers travel deep into the Montana wilderness to recover stolen gold stashed by a notorious gang of outlaws."
-        },
-        {
-            "title": "The Shore Road Mystery",
-            "author": "Franklin W. Dixon",
-            "year": 1928,
-            "series": "The Hardy Boys",
-            "order": 6,
-            "description": "A string of car thefts along Shore Road pulls Frank and Joe into a perilous criminal conspiracy."
-        },
-        {
-            "title": "The Secret of the Caves",
-            "author": "Franklin W. Dixon",
-            "year": 1929,
-            "series": "The Hardy Boys",
-            "order": 7,
-            "description": "Mysterious disappearances near a network of coastal caves lead the Hardy boys to a startling underground discovery."
-        },
-        {
-            "title": "The Mystery of Cabin Island",
-            "author": "Franklin W. Dixon",
-            "year": 1929,
-            "series": "The Hardy Boys",
-            "order": 8,
-            "description": "Stranded on a snowbound island, Frank and Joe must solve a baffling mystery before the bitter cold traps them for good."
+            "src": "2005Camry.avif",
+            "alt": "2005 Toyota Camry",
+            "years": "2005"
         }
     ]
 }
